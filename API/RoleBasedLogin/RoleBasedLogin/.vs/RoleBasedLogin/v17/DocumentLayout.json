@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular\\API\\RoleBasedLogin\\RoleBasedLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBF9F7-53A0-4BC9-8934-C19B6C6F47C8}|RoleBasedLogin\\RoleBasedLogin.csproj|d:\\angular\\api\\rolebasedlogin\\rolebasedlogin\\rolebasedlogin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEBF9F7-53A0-4BC9-8934-C19B6C6F47C8}|RoleBasedLogin\\RoleBasedLogin.csproj|solutionrelative:rolebasedlogin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBF9F7-53A0-4BC9-8934-C19B6C6F47C8}|RoleBasedLogin\\RoleBasedLogin.csproj|d:\\angular\\api\\rolebasedlogin\\rolebasedlogin\\rolebasedlogin\\models\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEBF9F7-53A0-4BC9-8934-C19B6C6F47C8}|RoleBasedLogin\\RoleBasedLogin.csproj|solutionrelative:rolebasedlogin\\models\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBF9F7-53A0-4BC9-8934-C19B6C6F47C8}|RoleBasedLogin\\RoleBasedLogin.csproj|d:\\angular\\api\\rolebasedlogin\\rolebasedlogin\\rolebasedlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BEBF9F7-53A0-4BC9-8934-C19B6C6F47C8}|RoleBasedLogin\\RoleBasedLogin.csproj|solutionrelative:rolebasedlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBF9F7-53A0-4BC9-8934-C19B6C6F47C8}|RoleBasedLogin\\RoleBasedLogin.csproj|d:\\angular\\api\\rolebasedlogin\\rolebasedlogin\\rolebasedlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEBF9F7-53A0-4BC9-8934-C19B6C6F47C8}|RoleBasedLogin\\RoleBasedLogin.csproj|solutionrelative:rolebasedlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEBF9F7-53A0-4BC9-8934-C19B6C6F47C8}|RoleBasedLogin\\RoleBasedLogin.csproj|d:\\angular\\api\\rolebasedlogin\\rolebasedlogin\\rolebasedlogin\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEBF9F7-53A0-4BC9-8934-C19B6C6F47C8}|RoleBasedLogin\\RoleBasedLogin.csproj|solutionrelative:rolebasedlogin\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\RoleBasedLogin\\RoleBasedLogin\\RoleBasedLogin\\Program.cs",
+              "RelativeDocumentMoniker": "RoleBasedLogin\\Program.cs",
+              "ToolTip": "D:\\Angular\\API\\RoleBasedLogin\\RoleBasedLogin\\RoleBasedLogin\\Program.cs",
+              "RelativeToolTip": "RoleBasedLogin\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:31:12.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\RoleBasedLogin\\RoleBasedLogin\\RoleBasedLogin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "RoleBasedLogin\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Angular\\API\\RoleBasedLogin\\RoleBasedLogin\\RoleBasedLogin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "RoleBasedLogin\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAwwEEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:18:43.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtOption.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\RoleBasedLogin\\RoleBasedLogin\\RoleBasedLogin\\Models\\JwtOption.cs",
+              "RelativeDocumentMoniker": "RoleBasedLogin\\Models\\JwtOption.cs",
+              "ToolTip": "D:\\Angular\\API\\RoleBasedLogin\\RoleBasedLogin\\RoleBasedLogin\\Models\\JwtOption.cs",
+              "RelativeToolTip": "RoleBasedLogin\\Models\\JwtOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:17:47.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Angular\\API\\RoleBasedLogin\\RoleBasedLogin\\RoleBasedLogin\\appsettings.json",
+              "RelativeDocumentMoniker": "RoleBasedLogin\\appsettings.json",
+              "ToolTip": "D:\\Angular\\API\\RoleBasedLogin\\RoleBasedLogin\\RoleBasedLogin\\appsettings.json",
+              "RelativeToolTip": "RoleBasedLogin\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T05:17:09.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\RoleBasedLogin\\RoleBasedLogin\\RoleBasedLogin\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "RoleBasedLogin\\Models\\Users.cs",
+              "ToolTip": "D:\\Angular\\API\\RoleBasedLogin\\RoleBasedLogin\\RoleBasedLogin\\Models\\Users.cs",
+              "RelativeToolTip": "RoleBasedLogin\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:16:37.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

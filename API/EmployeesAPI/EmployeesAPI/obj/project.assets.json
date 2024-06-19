@@ -1446,11 +1446,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\API\\EmployeesAPI\\EmployeesAPI\\EmployeesAPI.csproj",
+      "projectUniqueName": "D:\\Angular\\API\\EmployeesAPI\\EmployeesAPI\\EmployeesAPI.csproj",
       "projectName": "EmployeesAPI",
-      "projectPath": "D:\\API\\EmployeesAPI\\EmployeesAPI\\EmployeesAPI.csproj",
+      "projectPath": "D:\\Angular\\API\\EmployeesAPI\\EmployeesAPI\\EmployeesAPI.csproj",
       "packagesPath": "C:\\Users\\karan.prajapati\\.nuget\\packages\\",
-      "outputPath": "D:\\API\\EmployeesAPI\\EmployeesAPI\\obj\\",
+      "outputPath": "D:\\Angular\\API\\EmployeesAPI\\EmployeesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karan.prajapati\\AppData\\Roaming\\NuGet\\NuGet.Config",

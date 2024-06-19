@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5BTRh3viA+kKwAR+4uco27mtxhd4Q1+lRd2SGfi1bI0mgLbJZgGIa1EBA/RCQJqIkwXN8jnNTJna3E/dHfFhpA==",
+  "dgSpecHash": "fd/kGTtpH7CZIwM2CeW7dP5dnKamVGj48+LF5/vaM2N7+jI/vDDWo6j/PZSqH0zRdjLqOl/CnoUQQLgMwSl1DA==",
   "success": true,
-  "projectFilePath": "D:\\API\\EmployeesAPI\\EmployeesAPI\\EmployeesAPI.csproj",
+  "projectFilePath": "D:\\Angular\\API\\EmployeesAPI\\EmployeesAPI\\EmployeesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karan.prajapati\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",
     "C:\\Users\\karan.prajapati\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

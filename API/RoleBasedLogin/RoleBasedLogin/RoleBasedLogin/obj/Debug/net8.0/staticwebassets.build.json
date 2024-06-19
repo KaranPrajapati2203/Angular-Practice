@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HQwqrBEzwttu7Nw98yuDLf0z77Huo4U85tLbiwY1rcM=",
+  "Source": "RoleBasedLogin",
+  "BasePath": "_content/RoleBasedLogin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

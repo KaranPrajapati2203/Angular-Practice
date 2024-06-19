@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\API\\loginAPI\\loginAPI\\loginAPI.csproj": {}
+    "D:\\Angular\\API\\loginAPI\\loginAPI\\loginAPI.csproj": {}
   },
   "projects": {
-    "D:\\API\\loginAPI\\loginAPI\\loginAPI.csproj": {
+    "D:\\Angular\\API\\loginAPI\\loginAPI\\loginAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API\\loginAPI\\loginAPI\\loginAPI.csproj",
+        "projectUniqueName": "D:\\Angular\\API\\loginAPI\\loginAPI\\loginAPI.csproj",
         "projectName": "loginAPI",
-        "projectPath": "D:\\API\\loginAPI\\loginAPI\\loginAPI.csproj",
+        "projectPath": "D:\\Angular\\API\\loginAPI\\loginAPI\\loginAPI.csproj",
         "packagesPath": "C:\\Users\\karan.prajapati\\.nuget\\packages\\",
-        "outputPath": "D:\\API\\loginAPI\\loginAPI\\obj\\",
+        "outputPath": "D:\\Angular\\API\\loginAPI\\loginAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karan.prajapati\\AppData\\Roaming\\NuGet\\NuGet.Config",
