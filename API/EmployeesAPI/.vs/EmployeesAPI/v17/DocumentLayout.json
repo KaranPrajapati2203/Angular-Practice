@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{22BAB1EE-02F4-46B1-B914-EC68555B5DCC}|EmployeesAPI\\EmployeesAPI.csproj|solutionrelative:employeesapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{22BAB1EE-02F4-46B1-B914-EC68555B5DCC}|EmployeesAPI\\EmployeesAPI.csproj|d:\\angular\\api\\employeesapi\\employeesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BAB1EE-02F4-46B1-B914-EC68555B5DCC}|EmployeesAPI\\EmployeesAPI.csproj|solutionrelative:employeesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22BAB1EE-02F4-46B1-B914-EC68555B5DCC}|EmployeesAPI\\EmployeesAPI.csproj|d:\\angular\\api\\employeesapi\\employeesapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22BAB1EE-02F4-46B1-B914-EC68555B5DCC}|EmployeesAPI\\EmployeesAPI.csproj|solutionrelative:employeesapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +34,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular\\API\\EmployeesAPI\\EmployeesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeesAPI\\Program.cs",
+              "ToolTip": "D:\\Angular\\API\\EmployeesAPI\\EmployeesAPI\\Program.cs",
+              "RelativeToolTip": "EmployeesAPI\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwEYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:38:44.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\Angular\\API\\EmployeesAPI\\EmployeesAPI\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "EmployeesAPI\\Controllers\\UsersController.cs",
               "ToolTip": "D:\\Angular\\API\\EmployeesAPI\\EmployeesAPI\\Controllers\\UsersController.cs",
               "RelativeToolTip": "EmployeesAPI\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwH0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T06:48:50.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Angular\\API\\EmployeesAPI\\EmployeesAPI\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeesAPI\\Controllers\\EmployeeController.cs",
